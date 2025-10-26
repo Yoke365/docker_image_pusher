@@ -1,3 +1,2 @@
 nginx
-cooderl/wewe-rss-sqlite:latest
-ghcr.io/home-assistant/home-assistant:stable
+crpi-yg76q6mito9svmtc.cn-beijing.personal.cr.aliyuncs.com/alicloud_haloos/haloos:latest
