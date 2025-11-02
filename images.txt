@@ -1,3 +1,3 @@
 nginx
-apollo-env-gpu:10.0-u22
+ registry.baidubce.com/apollo/apollo-env-gpu:10.0-u22
 crpi-yg76q6mito9svmtc.cn-beijing.personal.cr.aliyuncs.com/alicloud_haloos/haloos:latest
